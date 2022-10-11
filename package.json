@@ -1,6 +1,6 @@
 {
   "name": "@binaryminer/vector2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "2D Vector Class",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
